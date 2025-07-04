@@ -4,8 +4,8 @@ A comprehensive frontend-only dental center management system built with React, 
 
 ## 🚀 Live Demo
 
-- **Deployed Application**: [Your Deployed Link Here]
-- **GitHub Repository**: [Your Repository Link Here]
+- **Deployed Application**: Your Deployed Link Here]](https://dental-center-management-seven.vercel.app/)
+- **GitHub Repository**: https://github.com/banti8974/Dental_Center_Management
 
 ## 📋 Table of Contents
 
